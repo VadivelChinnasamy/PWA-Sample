@@ -1,4 +1,4 @@
-const staticDevCoffee = "picday-s1"
+const staticDevCoffee = "picsday-site"
 const assets = [
   "/",
   "/index.html",
