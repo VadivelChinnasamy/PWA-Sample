@@ -9,6 +9,7 @@ const assets = [
   "/images/img-3.jpg",
   "/images/img-4.jpg",
   "/images/img-5.jpg",
+  "/images/picsday.png",
 ]
 
 self.addEventListener("install", installEvent => {
