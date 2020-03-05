@@ -8,7 +8,7 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/images/picsday.png",
+      "src": "/picsday.png",
       "sizes": "144*144",
       "type": "image/png"
     }  
