@@ -1,15 +1,14 @@
 const staticDevCoffee = "picsday-site"
 const assets = [
   "/",
-  "/index.html",
-  "/style.css",
-  "/app.js",
-  "/images/img-1.jpg",
-  "/images/img-2.jpg",
-  "/images/img-3.jpg",
-  "/images/img-4.jpg",
-  "/images/img-5.jpg",
-  "/images/picsday.png",
+  "/pwa-sample/index.html",
+  "/pwa-sample/style.css",
+  "/pwa-sample/app.js",
+  "/pwa-sample/images/img-1.jpg",
+  "/pwa-sample/images/img-2.jpg",
+  "/pwa-sample/images/img-3.jpg",
+  "/pwa-sample/images/img-4.jpg",
+  "/pwa-sample/images/img-5.jpg",
 ]
 
 self.addEventListener("install", installEvent => {
