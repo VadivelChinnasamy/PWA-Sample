@@ -1,7 +1,7 @@
 {
   "name": "Pics Day",
   "short_name": "Pics Day",
-  "start_url": "/index.html",
+  "start_url": "/pwa-sample/index.html",
   "display": "standalone",
   "background_color": "#fdfdfd",
   "theme_color": "#db4938",
