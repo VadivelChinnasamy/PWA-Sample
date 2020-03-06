@@ -1,7 +1,7 @@
 const staticDevCoffee = "picsday-site"
 const assets = [
   "/",
-  "/pwa-sample/index.html",
+  "/index.html",
   "/pwa-sample/style.css",
   "/pwa-sample/app.js",
   "/pwa-sample/images/img-1.jpg",
