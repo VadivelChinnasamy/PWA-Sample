@@ -16,7 +16,7 @@ const showCoffees = () => {
     ({ name, image }) =>
       (output += `
               <div class="card">
-                <img class="card--avatar" src=${image} />
+                <img class="card--avatar" src=${image} alt=${name}/>
                 <h1 class="card--title">${name}</h1>
 				<a class="card--link" href="#">Figure</a>
               </div>
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", showCoffees)
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", function() {
     navigator.serviceWorker
-      .register("/pwa-sample/serviceWorker.js")
+      .register("/serviceWorker.js")
       .then(res => console.log("service worker registered"))
       .catch(err => console.log("service worker not registered", err))
   })
