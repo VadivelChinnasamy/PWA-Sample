@@ -1,1 +1,3 @@
-# PWA-Sample, it just an sample PWA project and it has basic understanding concepts
+# PWA sample project,
+It just an sample PWA project and it cover the basic PWA concepts. I used Lighthouse tool to detect my page Performance, Accessability,Best Practice, SEO, PWA and I improved it.
+    
