@@ -28,6 +28,7 @@ self.addEventListener("fetch", fetchEvent => {
   );
 });
 
+/*
 let deferredPrompt;
 
 window.addEventListener('beforeinstallprompt', (e) => {
@@ -44,7 +45,6 @@ window.addEventListener('appinstalled', (evt) => {
   console.log('a2hs installed');
 });
 
-/*
 Update UI based on how the PWA was launched #
 
 @media all and (display-mode: standalone) {
